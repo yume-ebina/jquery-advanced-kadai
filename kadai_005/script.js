@@ -20,4 +20,5 @@ $(function() {
     autoplaySpeed: 5000,
     arrows: false,
   });
+
 });
